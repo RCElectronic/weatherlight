@@ -1,3 +1,5 @@
+#python3
+
 from time import sleep
 from random import randint
 import unicornhat as uh
